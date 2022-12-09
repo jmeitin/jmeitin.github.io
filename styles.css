@@ -91,6 +91,41 @@ hr{
     justify-content: flex-end;
 }
 
+.showcase2{
+    width:100%;
+    height:500px;
+    background: url(img/bigdata.jpg) no-repeat center/cover;
+    padding: 50px;
+    margin-bottom: 20px;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+.showcase3{
+    width:100%;
+    height:500px;
+    background: url(img/kaggle.jpg) no-repeat center/cover;
+    padding: 50px;
+    margin-bottom: 20px;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-end;
+}
+.showcase4{
+    width:100%;
+    height:500px;
+    background: url(img/pyspark.jpg) no-repeat center/cover;
+    padding: 50px;
+    margin-bottom: 20px;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-end;
+}
+
 .btn{
     cursor: pointer;
     display:inline-block;
@@ -109,8 +144,15 @@ hr{
 }
 
 .showcase h2,
-.showcase p{
+.showcase p,
+.showcase2 h2,
+.showcase2 p,
+.showcase h3,
+.showcase3 p,
+.showcase4 h2,
+.showcase4 p{
     margin-bottom: 10px;
+    font-size: 30px; /*Tam Texto*/
 }
 
 /*NEWS CARDS*/
