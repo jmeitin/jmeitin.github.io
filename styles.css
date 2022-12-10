@@ -171,15 +171,15 @@ hr{
 .showcase p,
 .showcase2 h2,
 .showcase2 p,
-.showcase h3,
+.showcase3 h2,
 .showcase3 p,
-.showcase5 p,
-.showcase5 h2
 .showcase4 h2,
+.showcase4 p,
+.showcase5 p,
+.showcase5 h2,
 .showcase6 p,
-.showcase6 h2,
-.showcase4 p{
-    margin-bottom: 10px;
+.showcase6 h2{
+    margin-bottom: 60px;
     font-size: 30px; /*Tam Texto*/
 }
 
