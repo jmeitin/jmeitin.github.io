@@ -126,6 +126,30 @@ hr{
     justify-content: flex-end;
 }
 
+.showcase5{
+    width:100%;
+    height:500px;
+    background: url(img/tech-red.jpg) no-repeat center/cover;
+    padding: 50px;
+    margin-bottom: 20px;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+.showcase6{
+    width:100%;
+    height:500px;
+    background: url(img/image-five.jpg) no-repeat center/cover;
+    padding: 50px;
+    margin-bottom: 20px;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-end;
+}
+
 .btn{
     cursor: pointer;
     display:inline-block;
@@ -149,7 +173,11 @@ hr{
 .showcase2 p,
 .showcase h3,
 .showcase3 p,
+.showcase5 p,
+.showcase5 h2
 .showcase4 h2,
+.showcase6 p,
+.showcase6 h2,
 .showcase4 p{
     margin-bottom: 10px;
     font-size: 30px; /*Tam Texto*/
@@ -165,7 +193,7 @@ hr{
 
 .news-cards img{
     width: 100%;
-    height: 200px;
+    height: 300px;
 }
 
 .news-cards h3{
@@ -191,12 +219,14 @@ hr{
     height:350px;
     background: url(img/tech-red.jpg) no-repeat center center/cover;
     margin-bottom: 40px;
+    justify-content: flex-end;
 }
 
 .cards-banner-one .content{
     width: 40%;
     padding: 90px 0 0 30px;
     color: #ffffff;
+    font-size: 30px;
 }
 
 .cards-banner-one p,
@@ -214,6 +244,7 @@ hr{
 .cards-banner-two .content{
     width: 50%;
     padding: 100px 0 0 30px;
+    font-size: 30px;
 }
 
 /*SOCIAL LINK*/
