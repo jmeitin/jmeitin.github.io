@@ -129,7 +129,7 @@ hr{
 .showcase5{
     width:100%;
     height:500px;
-    background: url(img/tech-red.jpg) no-repeat center/cover;
+    background: url(img/fondo.png) no-repeat center/cover;
     padding: 50px;
     margin-bottom: 20px;
     display:flex;
@@ -219,8 +219,8 @@ hr{
 }
 
 .news-cards img{
-    width: 100%;
-    height: 250px;
+    width: 95%;
+    height: 300px;
 }
 
 .news-cards h3{
